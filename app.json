@@ -1,0 +1,6 @@
+{
+  "name": "Codewars Relay",
+  "description": "a workaround for CORS when calling codewars api from a browser.",
+  "repository": "https://github.com/10XL/kemal-codewars-relay",
+  "keywords": ["crystal", "kemal", "codewars", "cors"]
+}
